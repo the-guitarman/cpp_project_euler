@@ -1,0 +1,4 @@
+**/.DS_Store
+*.xcodeproj/*
+cpp_project_euler.xcodeproj/*
+cpp_project_euler/*
